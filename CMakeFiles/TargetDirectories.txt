@@ -1,0 +1,9 @@
+/tmp/CudaSift/CMakeFiles/install/strip.dir
+/tmp/CudaSift/CMakeFiles/install/local.dir
+/tmp/CudaSift/CMakeFiles/install.dir
+/tmp/CudaSift/CMakeFiles/package_source.dir
+/tmp/CudaSift/CMakeFiles/package.dir
+/tmp/CudaSift/CMakeFiles/cudasift.dir
+/tmp/CudaSift/CMakeFiles/rebuild_cache.dir
+/tmp/CudaSift/CMakeFiles/edit_cache.dir
+/tmp/CudaSift/CMakeFiles/list_install_components.dir
